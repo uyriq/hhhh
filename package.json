@@ -1,0 +1,35 @@
+{
+  "name": "a-simple-mantine-playground-template",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "mantine"
+  ],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@emotion/react": "11.10.6",
+    "@mantine/core": "6.0.2",
+    "@mantine/hooks": "6.0.2",
+    "@types/react-dom": "18.0.11",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.0",
+    "@types/react-dom": "17.0.0",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
